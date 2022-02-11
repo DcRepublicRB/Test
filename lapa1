@@ -1,0 +1,33 @@
+<html>
+
+<link rel="stylesheet" href="stils.css">
+
+<div class = "Div1">
+
+    <div class = "Div2">
+        <img src = "https://s18670.pcdn.co/wp-content/uploads/Best-Short-Stories-for-Middle-School.jpg" height="150" width="200">
+        <h2>Kas ir pasaka?</h2>
+        <p>Pasaka ir izdomāts stāsts vai sacerējums prozā, kas stāsta par izdomātiem, neiespējamiem, neticamiem notikumiem un parādībām. Pasakās galvenie tēli parasti ir raganas, burves, milži, runājoši dzīvnieki, troļļi, rūķi un citi, kuri reāli dabā nepastāv. Pasakās var darboties arī cilvēki, piemēram, prinči un princeses, ķēniņš, tēvs un trīs dēli un tā tālāk, bet darbība, ko viņi veic, nav ticama, dzīvē tas nav iespējams. Raksturīgākās pasaku iezīmes ir kāpinājums, hiperbola, personifikācija.</p>
+    </div>
+
+    <div class = "Div3">
+        <form>
+            Jautājums: Vai tu esi lasijis kādu pasaku? Nigga
+            <br>
+            <input placeholder="Input"></input>
+            <br>
+            Jā<input type= "checkbox"></input>
+            <br>
+            Nē<input type= "checkbox"></input>
+            <br>
+            
+            
+            <div class = "link">
+                <a href="http://zanis.sites.hex.lv/assist2.html"> Next </a>
+            </div>
+            <br>
+        </form>
+    </div>
+</div>
+
+</html>
