@@ -1,7 +1,83 @@
-.kaste {
-  margin: 10% 10% 10% 10%;
-  background: gray;
-  color: white;
-  width: 50%;
-  padding: 5px;
+
+.Div1 {
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+border: 5px solid gray;
+background-color: lightcoral;
+text-align: center;
+padding-bottom: 10px;
+padding-top: 10px;
 }
+
+.Div2 {
+    border: 5px solid gray;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:lightskyblue;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.Div3 {
+    height: 16%;
+    margin-top: 30px;
+    border: 5px solid gray;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:lightskyblue;
+    text-align: center;
+    padding-top: 10px;
+}
+.link {
+    float: right;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.Diva {
+    height: 75%;
+    border: 5px solid gray;
+    background-color: orchid;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+
+.Divb {
+    height: 90%;
+    float: left;
+    border: 5px solid gray;
+    width: 40%;
+    background-color:lightcoral;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 100px;
+}
+
+.Divc {
+
+    height: 90%;
+    float: right;
+    border: 5px solid gray;
+    width: 47%;
+    background-color:lightcoral;
+    text-align: center;
+    padding-top: 10px;
+    margin-right: 10px;
+}
+
+.Prep {
+    margin-top: 30%;
+
+}
+
+
+.link1 {
+    margin-top: 17%;
+    float: right;
+    margin-right: 10px;
+}
+
